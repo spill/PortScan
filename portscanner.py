@@ -14,5 +14,5 @@ if __name__ == "__main__":
     target_ip = socket.gethostbyname(target)
     print(f"Starting scan on host: {target_ip}")
     
-    for port in range(1, 1025): 
+    for port in range(1, 655335): 
         scan_port(target_ip, port)
