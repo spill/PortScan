@@ -1,7 +1,7 @@
 
 # PyPort
 
-So far, i've developed a basic port scanner as a personal project of mine to dive into network security. Using Python's socket library, this tool scans for open ports on a networked system, leveraging TCP connections to identify accessible ports. At the moment, its a straigtforward application but my goal is to eventually create a light weight, intuitive tool for security assessment. test
+So far, i've developed a basic port scanner as a personal project of mine to dive into network security. Using Python's socket library, this tool scans for open ports on a networked system, leveraging TCP connections to identify accessible ports. At the moment, its a straigtforward application but my goal is to eventually create a light weight, intuitive tool for security assessment. 
 
 
 ## Author
